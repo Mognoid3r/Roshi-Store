@@ -1,0 +1,26 @@
+{
+  "name": "roshi-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mognoid3r/Roshi-Store.git"
+  },
+  "author": "Roshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mognoid3r/Roshi-Store/issues"
+  },
+  "homepage": "https://github.com/Mognoid3r/Roshi-Store#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
